@@ -36,7 +36,7 @@ The system recognizes 7 distinct emotions:
 6. **Sad** 😢
 7. **Surprise** 😲
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Input Video Stream
@@ -165,7 +165,7 @@ tensorboard --logdir=runs/emotion_recognition
 python3.12 main.py
 ```
 
-## 📊 Model Details
+## Model Details
 
 | Component | Description | Parameters |
 |-----------|-------------|------------|
